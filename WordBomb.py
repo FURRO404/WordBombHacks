@@ -1,4 +1,5 @@
 #==============FURRO404==============#
+#WordBomb.py
 import random
 import time
 import pyautogui
